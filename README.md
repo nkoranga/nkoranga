@@ -31,5 +31,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/nandan-singh-koranga/" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/13930/linkedin" width="50" /></a>
-&nbsp; <a href="mailto:nkoranga@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail"  width="50" /></a>
+&nbsp; <a href="mailto:nkoranga@gmail.com" target="_blank" rel="noopener noreferrer"><img src="![image](https://github.com/nkoranga/nkoranga/assets/1111655/015f3cfe-d331-4fb6-b594-f157b9c4556d)
+"  width="50" /></a>
 </p>
