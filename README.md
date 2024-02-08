@@ -1,23 +1,23 @@
-### Hi there 👋 I'm Nandan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+### Hi there 👋 I'm Nandan.
 <img align="right" alt="GIF" src="https://github.com/nkoranga/nkoranga/blob/main/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and web applications.
+- 🎓 &nbsp; Studying Computer Science, computer programming and multimedia.
+- 💼 &nbsp; Android developer and full stack developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ✍️ &nbsp; Watching Movies and trying out latest design trends as hobbies.
 - ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; PHP | Dart | Java | C++  
+- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | CorelDarw
 
 <br>
 
